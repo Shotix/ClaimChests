@@ -1,0 +1,13 @@
+name: ClaimChests
+version: '${project.version}'
+main: io.github.shotix.claimchests.ClaimChests
+api-version: 1.15
+authors: [ Sh0tix ]
+description: A plugin with which you are able to claim chests
+
+commands:
+  claim:
+    description: "Claim a Chest"
+
+  unclaim:
+    description: "Unclaim a chest"
